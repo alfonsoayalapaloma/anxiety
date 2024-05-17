@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding-top: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+#anxiety-level {
+    margin-top: 20px;
+    font-size: 1.5em;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.level-calm {
+    background-color: #a3d8a0; /* Green */
+    color: #fff;
+}
+
+.level-alert {
+    background-color: #ffcc00; /* Yellow */
+    color: #fff;
+}
+
+.level-super-anxious {
+    background-color: #ff6347; /* Red */
+    color: #fff;
+}
